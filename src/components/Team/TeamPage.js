@@ -75,7 +75,7 @@ const MentorAndAdvisorList=[
 const TeamPage = () => {
   return (<>
 
-    <div className='p-2 m-10 text-center text-2xl font-semibold'>
+    <div className='p-2 m-10 text-center text-2xl font-bold'>
       <span>Learn from Scientists, reserach scholars from the top institutes in the world.</span>
     </div>
 

@@ -13,7 +13,7 @@ const NavBar = () => {
           <a className='m-2 text-black ' href="/login">MATERIALS</a>
           <a className='m-2 text-black ' href="/register">TEAM</a>
           <a className='m-2 text-black ' href="/register">CONTACT US</a>
-          <a className='m-2 text-black ' href="/register">LOGIN</a>
+          <a className='m-2 text-black bg-blue-600 border-2 rounded-full p-2 h-12 w-24 text-sm text-center text-white ' href="/register">LOGIN</a>
         
 
        
